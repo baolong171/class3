@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5c19caa4-5ecb-4ea3-928e-8430a70451d5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ec5b4456-6ea0-49bd-86d8-141573b891e0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>464ecbbf-51f2-48e3-83aa-826959231a02</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>159b8afa-0f15-40bb-b33f-865c45552ba6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f4beda0a-00f3-4c90-9f97-8fa1b843d40a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>05476d13-3778-4e6c-8585-378ce3414a47</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b71f8e46-81ea-4020-873b-ace7c3d73884</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestObject('Ngay 3/fistname_input')</defaultValue>
+      <description></description>
+      <id>ec5b4456-6ea0-49bd-86d8-141573b891e0</id>
+      <masked>false</masked>
+      <name>input_fistName</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Ngay 3/lastname_input')</defaultValue>
+      <description></description>
+      <id>464ecbbf-51f2-48e3-83aa-826959231a02</id>
+      <masked>false</masked>
+      <name>input_lastName</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Ngay 3/email_input')</defaultValue>
+      <description></description>
+      <id>159b8afa-0f15-40bb-b33f-865c45552ba6</id>
+      <masked>false</masked>
+      <name>input_email</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Ngay 3/password_input')</defaultValue>
+      <description></description>
+      <id>f4beda0a-00f3-4c90-9f97-8fa1b843d40a</id>
+      <masked>false</masked>
+      <name>input_password</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Ngay 3/button_submit')</defaultValue>
+      <description></description>
+      <id>05476d13-3778-4e6c-8585-378ce3414a47</id>
+      <masked>false</masked>
+      <name>btn_create</name>
+   </variable>
+   <variable>
+      <defaultValue>'long@gmail.com'</defaultValue>
+      <description></description>
+      <id>b71f8e46-81ea-4020-873b-ace7c3d73884</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

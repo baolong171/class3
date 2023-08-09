@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Bai 1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c39254d3-2396-4c43-a668-b8c03a4c47d0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>78ba63a0-a005-46bd-a67a-9fe2d1d876b7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6c2fa1ad-ce5d-4947-b778-1cdcbfd95c55</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>690f1717-f9b1-4475-8f5c-f3cb02dad6dc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>254a7860-cff5-4a75-9954-b6f429fa37ad</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0786e22d-01ce-4703-8c6b-962fccfc1a1c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>422cbf86-5f1a-4411-a6ff-62b7d11246fe</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>04c9eae7-59fa-4597-9086-980009b7bbe9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestObject('Ngay 2/contact')</defaultValue>
+      <description></description>
+      <id>78ba63a0-a005-46bd-a67a-9fe2d1d876b7</id>
+      <masked>false</masked>
+      <name>contact</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Ngay 2/inputEmail')</defaultValue>
+      <description></description>
+      <id>6c2fa1ad-ce5d-4947-b778-1cdcbfd95c55</id>
+      <masked>false</masked>
+      <name>input_email</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Ngay 2/inputCmt')</defaultValue>
+      <description></description>
+      <id>690f1717-f9b1-4475-8f5c-f3cb02dad6dc</id>
+      <masked>false</masked>
+      <name>input_comment</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Ngay 2/select_name')</defaultValue>
+      <description></description>
+      <id>254a7860-cff5-4a75-9954-b6f429fa37ad</id>
+      <masked>false</masked>
+      <name>select_name</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Ngay 2/send')</defaultValue>
+      <description></description>
+      <id>0786e22d-01ce-4703-8c6b-962fccfc1a1c</id>
+      <masked>false</masked>
+      <name>send</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Ngay 2/sgv_success')</defaultValue>
+      <description></description>
+      <id>422cbf86-5f1a-4411-a6ff-62b7d11246fe</id>
+      <masked>false</masked>
+      <name>icon_success</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Ngay 2/iframe')</defaultValue>
+      <description></description>
+      <id>04c9eae7-59fa-4597-9086-980009b7bbe9</id>
+      <masked>false</masked>
+      <name>iframe</name>
+   </variable>
+</TestCaseEntity>
